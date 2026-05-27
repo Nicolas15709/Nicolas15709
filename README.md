@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Nicolas</a></h1>
-<h3 align="center">A passionate student who likes to program and learn new programming languages &#127470;&#127475</h3>
+<h3 align="center">A passionate student who likes to program and learn new programming languages</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
