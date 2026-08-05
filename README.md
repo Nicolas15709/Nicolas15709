@@ -12,9 +12,7 @@ Nicolas</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 💬 Ask me about **Python and Java**
+- 💬 Ask me about **Python, Javascript, VUE, etc..**
 
 - 📫 How to reach me **nicolaslopezcadena@hotmail.com**
 
